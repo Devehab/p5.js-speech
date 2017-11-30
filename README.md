@@ -11,6 +11,8 @@ Speech recognition requires launching from a server (e.g. a python simpleserver 
 
 ## Simple Example (Synthesis)
 
+Demo simple http://ability.nyu.edu/p5.js-speech/examples/02speechbox.html
+
 ```javascript
 var voice = new p5.Speech(); // speech synthesis object
 voice.speak('hi there'); // say something
